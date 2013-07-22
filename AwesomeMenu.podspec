@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/levey/AwesomeMenu"
   s.license      = 'Creative Commons Attribution 3.0 Unported License'
   s.author       = { "Jingwen" => "jingwen.xiong@gmail.com" }
-  s.source       = { :git => "https://github.com/clairebear/AwesomeMenu.git", commit: "015e445c6cc76291f1c1b0fc368abeeffe79b318"}
+  s.source       = { :git => "https://github.com/clairebear/AwesomeMenu.git", commit: "7fdd4bb41aa0e5fd930684f8132b4652514ffbd5"}
   s.platform     = :ios, '5.0'
   s.source_files = 'AwesomeMenu/AwesomeMenu/*'
   s.exclude_files = 'Classes/Exclude'
